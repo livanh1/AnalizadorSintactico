@@ -1,0 +1,16 @@
+C:\Users\Buz\Desktop\6T0 SEMESTRE\LENGUAJES Y AUTOMATAS 1\COMPILADOR\CompiladorAutomatas\T_Simbolos\bin\Debug\T_Simbolos.dll
+C:\Users\Buz\Desktop\6T0 SEMESTRE\LENGUAJES Y AUTOMATAS 1\COMPILADOR\CompiladorAutomatas\T_Simbolos\bin\Debug\T_Simbolos.pdb
+C:\Users\Buz\Desktop\6T0 SEMESTRE\LENGUAJES Y AUTOMATAS 1\COMPILADOR\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.dll
+C:\Users\Buz\Desktop\6T0 SEMESTRE\LENGUAJES Y AUTOMATAS 1\COMPILADOR\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.pdb
+C:\Users\Buz\Desktop\6T0 SEMESTRE\LENGUAJES Y AUTOMATAS 1\COMPILADOR\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.csproj.CoreCompileInputs.cache
+C:\Users\Buz\Desktop\6T0 SEMESTRE\LENGUAJES Y AUTOMATAS 1\COMPILADOR\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.csprojAssemblyReference.cache
+C:\Users\livan\OneDrive\Desktop\COMPILADORES\1. Primer Parcial\3. Semana 3\Compilador-analizador-sintactico-master\Compilador-analizador-sintactico-master\PROYECTO EN C#\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.csprojAssemblyReference.cache
+C:\Users\livan\OneDrive\Desktop\COMPILADORES\1. Primer Parcial\3. Semana 3\Compilador-analizador-sintactico-master\Compilador-analizador-sintactico-master\PROYECTO EN C#\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.csproj.CoreCompileInputs.cache
+C:\Users\livan\OneDrive\Desktop\COMPILADORES\1. Primer Parcial\3. Semana 3\Compilador-analizador-sintactico-master\Compilador-analizador-sintactico-master\PROYECTO EN C#\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.dll
+C:\Users\livan\OneDrive\Desktop\COMPILADORES\1. Primer Parcial\3. Semana 3\Compilador-analizador-sintactico-master\Compilador-analizador-sintactico-master\PROYECTO EN C#\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.pdb
+C:\Users\livan\OneDrive\Desktop\CompiladorAutomatas\T_Simbolos\bin\Debug\T_Simbolos.dll
+C:\Users\livan\OneDrive\Desktop\CompiladorAutomatas\T_Simbolos\bin\Debug\T_Simbolos.pdb
+C:\Users\livan\OneDrive\Desktop\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.csprojAssemblyReference.cache
+C:\Users\livan\OneDrive\Desktop\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.csproj.CoreCompileInputs.cache
+C:\Users\livan\OneDrive\Desktop\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.dll
+C:\Users\livan\OneDrive\Desktop\CompiladorAutomatas\T_Simbolos\obj\Debug\T_Simbolos.pdb
